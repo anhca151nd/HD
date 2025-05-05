@@ -9,6 +9,7 @@ B2: Tạo mới phiên bản
 ![image](https://github.com/user-attachments/assets/8200d303-4848-4370-943f-f37db74b190c)
 
 B3: Hãy setting cấu hình và cài game, tuỳ chỉnh mọi thứ tuỳ ý
+
 B4: Hãy copy phiên bản đó ra
 
 ![image](https://github.com/user-attachments/assets/dccc2cb1-ee14-4f16-a452-c93909029ccf)
